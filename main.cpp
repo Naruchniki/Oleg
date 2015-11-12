@@ -14,4 +14,5 @@ int main()
    cout <<"\n";
    cout <<"Rus: ";
    cout <<rus;
+
 }
